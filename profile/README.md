@@ -1,107 +1,78 @@
+<!-- Native HTML provides structure and navigation. SVGs are static, self-contained brand compositions. -->
 <p align="center">
   <a href="https://platformengineering.pe/en/">
-    <img src="https://raw.githubusercontent.com/platform-engineering-peru/.github/main/profile/assets/community-banner.png" alt="Platform Engineering Perú — Developer Experience, Internal Developer Platforms, and Cloud Infrastructure" width="100%" />
+    <picture>
+      <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/platform-engineering-peru/.github/codex/profile-editorial/profile/assets/cover-mobile.svg" />
+      <img src="https://raw.githubusercontent.com/platform-engineering-peru/.github/codex/profile-editorial/profile/assets/cover.svg" width="1200" alt="Platform Engineering Perú. Better platforms. Built together. Rooted in Peru, open to everyone." />
+    </picture>
   </a>
 </p>
 
-<h1 align="center">Great platforms. Even better people.</h1>
-
 <p align="center">
-  A community for the people building platforms — and the people they build them for.<br />
-  <strong>Rooted in Peru. Open to everyone.</strong>
-</p>
-
-<p align="center">
-  <a href="https://platformengineering.pe/en/">Explore the community</a> &nbsp; · &nbsp;
-  <a href="https://platformengineering.pe/en/events/">Find a gathering</a> &nbsp; · &nbsp;
-  <a href="https://www.linkedin.com/company/platformengineeringperu">Follow on LinkedIn</a>
-</p>
-
-
-<br />
-<p align="center"><sub>LEARN TOGETHER &nbsp; / &nbsp; BUILD IN THE OPEN &nbsp; / &nbsp; MAKE ROOM FOR OTHERS</sub></p>
-<h2 align="center">Less friction. More possibility.</h2>
-<p align="center">Real experiences and shared knowledge for people building better platforms.</p>
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>🟣 Experience</h3>
-      <p><strong>Start with the developer.</strong></p>
-      <p>Reduce friction. Improve feedback. Make everyday work feel better.</p>
-      <sub>DEVEX · FEEDBACK · PLATFORM AS A PRODUCT</sub>
-    </td>
-    <td width="34%" valign="top">
-      <h3>🟢 Platforms</h3>
-      <p><strong>Make the good path easy.</strong></p>
-      <p>Build self-service capabilities and reusable golden paths.</p>
-      <sub>IDPS · SELF-SERVICE · GOLDEN PATHS</sub>
-    </td>
-    <td width="33%" valign="top">
-      <h3>☁️ Foundations</h3>
-      <p><strong>Build with confidence.</strong></p>
-      <p>Connect cloud infrastructure, automation, and reliable operations.</p>
-      <sub>KUBERNETES · AUTOMATION · RELIABILITY</sub>
-    </td>
-  </tr>
-</table>
-
-<br />
-<p align="center"><sub>YOUR NEXT CONNECTION STARTS HERE</sub></p>
-<h2 align="center">A place to learn. People to build with.</h2>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <sub>01 / GET TOGETHER</sub>
-      <h3>Gatherings</h3>
-      <p>Real stories, fresh perspectives, and conversations worth continuing.</p>
-      <p><a href="https://platformengineering.pe/en/events/"><strong>Find a gathering ↗</strong></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <sub>02 / KEEP LEARNING</sub>
-      <h3>Resources</h3>
-      <p>A curated knowledge archive for your next question or next platform.</p>
-      <p><a href="https://platformengineering.pe/en/resources/"><strong>Open the archive ↗</strong></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <sub>03 / LOOK BACK</sub>
-      <h3>Memories</h3>
-      <p>The faces, moments, and shared experiences that bring us together.</p>
-      <p><a href="https://platformengineering.pe/en/memories/"><strong>Explore our memories ↗</strong></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <sub>04 / FIND YOUR PEOPLE</sub>
-      <h3>Community</h3>
-      <p>Meet the organizers and discover where your ideas can make a difference.</p>
-      <p><a href="https://platformengineering.pe/en/community/"><strong>Find your way in ↗</strong></a></p>
-    </td>
-  </tr>
-</table>
-
-<br />
-<table>
-  <tr>
-    <td width="28%" align="center" valign="middle">
-      <a href="https://platformengineering.pe/en/mascot/">
-        <img src="https://raw.githubusercontent.com/platform-engineering-peru/.github/main/profile/assets/ukuku.webp" width="200" alt="Ukuku, our spectacled bear mascot, welcoming you to the community" />
-      </a>
-    </td>
-    <td width="72%" valign="middle">
-      <sub>ROOTED IN PERU. OPEN TO EVERYONE.</sub>
-      <h2>There is room for you here.</h2>
-      <p>Bring a question, share a lesson, or help someone take their first step. You do not need to be an expert to belong.</p>
-      <p><a href="https://platformengineering.pe/en/community/"><strong>Share a talk ↗</strong></a> &nbsp; · &nbsp; <a href="https://github.com/platform-engineering-peru/platform-engineering-web"><strong>Contribute code ↗</strong></a> &nbsp; · &nbsp; <a href="mailto:info@platformengineering.pe"><strong>Host or support ↗</strong></a></p>
-    </td>
-  </tr>
-</table>
-
-<br />
-<p align="center"><strong>Good platforms deserve a bear hug.</strong></p>
-<p align="center">
-  <a href="https://platformengineering.pe/es-pe/">Comunidad en español</a> &nbsp; / &nbsp;
-  <a href="https://platformengineering.pe/en/branding/">Our brand</a> &nbsp; / &nbsp;
+  <a href="https://platformengineering.pe/en/community/"><strong>Join the community ↗</strong></a> &nbsp; &nbsp; · &nbsp; &nbsp;
+  <a href="https://platformengineering.pe/es-pe/">En español</a> &nbsp; &nbsp; · &nbsp; &nbsp;
   <a href="https://www.linkedin.com/company/platformengineeringperu">LinkedIn</a>
 </p>
+
+<br />
+
+<h3 align="center">Great platforms. Even better people.</h3>
+<p align="center">
+  We connect the people building platforms with the people they build them for.<br />
+  Real experiences, practical knowledge, and a place to grow — together.
+</p>
+<p align="center">
+  <code>Developer experience</code> &nbsp; <code>Internal developer platforms</code> &nbsp; <code>Cloud infrastructure</code>
+</p>
+
+<br />
+
+<p align="center"><sub>FOUR WAYS TO FIND YOUR WAY IN</sub></p>
+
+<p align="center">
+  <a href="https://platformengineering.pe/en/events/"><img src="https://raw.githubusercontent.com/platform-engineering-peru/.github/codex/profile-editorial/profile/assets/gatherings.svg" width="400" alt="01 — Gatherings. Good conversations. Better connections. Find a gathering." /></a>
+  <a href="https://platformengineering.pe/en/resources/"><img src="https://raw.githubusercontent.com/platform-engineering-peru/.github/codex/profile-editorial/profile/assets/resources.svg" width="400" alt="02 — Resources. Ideas worth building on. Open the knowledge archive." /></a>
+  <a href="https://platformengineering.pe/en/memories/"><img src="https://raw.githubusercontent.com/platform-engineering-peru/.github/codex/profile-editorial/profile/assets/memories.svg" width="400" alt="03 — Memories. More than a meetup. Explore our shared moments." /></a>
+  <a href="https://platformengineering.pe/en/community/"><img src="https://raw.githubusercontent.com/platform-engineering-peru/.github/codex/profile-editorial/profile/assets/community.svg" width="400" alt="04 — Community. Your people. Your place. Meet the organizers and take part." /></a>
+</p>
+
+<br />
+
+<h3>Built here. Shared with everyone.</h3>
+<p>
+  This is our home on GitHub. Our community website is built in the open, and there is room for your ideas:<br />
+  a useful resource, a clearer explanation, an accessibility fix, or your first contribution.
+</p>
+<p>
+  <a href="https://github.com/platform-engineering-peru/platform-engineering-web"><strong>Explore the website repository ↗</strong></a> &nbsp; · &nbsp;
+  <a href="https://github.com/platform-engineering-peru/platform-engineering-web/issues">Report an issue</a>
+</p>
+
+<br />
+
+<p align="center">
+  <a href="https://platformengineering.pe/en/community/">
+    <picture>
+      <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/platform-engineering-peru/.github/codex/profile-editorial/profile/assets/welcome-mobile.svg" />
+      <img src="https://raw.githubusercontent.com/platform-engineering-peru/.github/codex/profile-editorial/profile/assets/welcome.svg" width="1200" alt="Ukuku welcomes you: Make room for others. Bring a question, a first talk, or a helping hand. You belong here." />
+    </picture>
+  </a>
+</p>
+
+<details>
+  <summary><strong>Your first step starts here</strong></summary>
+  <br />
+  <p><strong>New to platform engineering?</strong> Start with a <a href="https://platformengineering.pe/en/events/">gathering</a> or explore our <a href="https://platformengineering.pe/en/resources/">resources</a>. Curiosity is enough.</p>
+  <p><strong>Have something to share?</strong> <a href="https://platformengineering.pe/en/community/">Propose a talk or help organize</a>. Your lessons learned can be someone else’s starting point.</p>
+  <p><strong>Want to support the community?</strong> <a href="mailto:info@platformengineering.pe">Get in touch</a> about hosting, collaborating, or supporting a gathering.</p>
+</details>
+
+<br />
+
+<p align="center">
+  <a href="mailto:info@platformengineering.pe"><strong>Say hello ↗</strong></a> &nbsp; &nbsp; / &nbsp; &nbsp;
+  <a href="https://platformengineering.pe/en/mascot/">Meet Ukuku</a> &nbsp; &nbsp; / &nbsp; &nbsp;
+  <a href="https://platformengineering.pe/en/branding/">Our brand</a>
+</p>
+<p align="center"><sub>PERÚ · COMMUNITY BUILT · OPEN TO EVERYONE</sub></p>
+<p><img src="https://raw.githubusercontent.com/platform-engineering-peru/.github/codex/profile-editorial/profile/assets/spectrum.svg" width="1200" alt="" /></p>
