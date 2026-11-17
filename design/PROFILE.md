@@ -11,7 +11,7 @@
 ## References and rationale
 
 - [Microsoft](https://github.com/microsoft/.github/blob/main/profile/README.md): distinctive cover art, concise participation paths.
-- [Home Assistant](https://github.com/home-assistant/.github/blob/master/profile/README.md): a clear mission, community focus, and a short entry-point list.
+- [Home Assistant](https://github.com/home-assistant/.github/blob/HEAD/profile/README.md): a clear mission, community focus, and a short entry-point list.
 - [Charm](https://github.com/charmbracelet): strong personality and a coherent project vocabulary.
 
 These are structural references, not copied layouts or artwork. Our visual direction uses the official violet, emerald, lavender, and navy palette, paths that connect people, editorial numbering, and Ukuku.
@@ -30,3 +30,12 @@ Install `design/requirements.txt` in a Python virtual environment, then run `pyt
 The `picture` elements use separate mobile compositions. Cards have an intrinsic display width of 400 px and wrap naturally, without layout tables. Illustrations use their own accessible brand surfaces in either GitHub theme. They are static by design and make no motion or API requests. Keep the original assets for provenance.
 
 Do not rely on a successful parse as visual proof: inspect the branch README on GitHub at 390 px and desktop widths before merging. Screenshots are local QA artifacts and must not be committed.
+
+## Validation results
+
+- `python scripts/verify-profile.py`: seven image components, nine SVGs, eighteen links; canonical embedded artwork and HTML allowlist verified.
+- GitHub Markdown API preserves `picture`, width-based `source` selection, image alternatives, and the keyboard-operable `details` disclosure.
+- Ten website/repository destinations return HTTP 200. The official LinkedIn URL returns 403 to automated clients, so its reachability remains unverified.
+- Real GitHub branch preview inspected at desktop and 390 px in dark mode. Light mode inspected with GitHub-rendered HTML and the same GitHub CSS in a local browser fixture; logged-out GitHub offered only a contrast toggle.
+- Confirmed mobile image selection, complete assets, single-column cards, and no horizontal overflow. Confirmed disclosure keyboard activation. All artwork is static.
+- The repository is documentation-only; it has no npm build or test suite.

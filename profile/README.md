@@ -2,15 +2,15 @@
 <p align="center">
   <a href="https://platformengineering.pe/en/">
     <picture>
-      <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/platform-engineering-peru/.github/codex/profile-editorial/profile/assets/cover-mobile.svg" />
-      <img src="https://raw.githubusercontent.com/platform-engineering-peru/.github/codex/profile-editorial/profile/assets/cover.svg" width="1200" alt="Platform Engineering Perú. Better platforms. Built together. Rooted in Peru, open to everyone." />
+      <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/platform-engineering-peru/.github/main/profile/assets/cover-mobile.svg" />
+      <img src="https://raw.githubusercontent.com/platform-engineering-peru/.github/main/profile/assets/cover.svg" width="1200" alt="Platform Engineering Perú. Better platforms. Built together. Rooted in Peru, open to everyone." />
     </picture>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://platformengineering.pe/en/community/"><strong>Join the community ↗</strong></a> &nbsp; &nbsp; · &nbsp; &nbsp;
-  <a href="https://platformengineering.pe/es-pe/">En español</a> &nbsp; &nbsp; · &nbsp; &nbsp;
+  <a href="https://platformengineering.pe/en/community/"><strong>Join us ↗</strong></a> &nbsp; &nbsp; · &nbsp; &nbsp;
+  <a href="https://platformengineering.pe/es-pe/">Español</a> &nbsp; &nbsp; · &nbsp; &nbsp;
   <a href="https://www.linkedin.com/company/platformengineeringperu">LinkedIn</a>
 </p>
 
@@ -22,7 +22,7 @@
   Real experiences, practical knowledge, and a place to grow — together.
 </p>
 <p align="center">
-  <code>Developer experience</code> &nbsp; <code>Internal developer platforms</code> &nbsp; <code>Cloud infrastructure</code>
+  <code>DevEx</code> &nbsp; <code>IDPs</code> &nbsp; <code>Cloud &amp; reliability</code>
 </p>
 
 <br />
@@ -30,10 +30,10 @@
 <p align="center"><sub>FOUR WAYS TO FIND YOUR WAY IN</sub></p>
 
 <p align="center">
-  <a href="https://platformengineering.pe/en/events/"><img src="https://raw.githubusercontent.com/platform-engineering-peru/.github/codex/profile-editorial/profile/assets/gatherings.svg" width="400" alt="01 — Gatherings. Good conversations. Better connections. Find a gathering." /></a>
-  <a href="https://platformengineering.pe/en/resources/"><img src="https://raw.githubusercontent.com/platform-engineering-peru/.github/codex/profile-editorial/profile/assets/resources.svg" width="400" alt="02 — Resources. Ideas worth building on. Open the knowledge archive." /></a>
-  <a href="https://platformengineering.pe/en/memories/"><img src="https://raw.githubusercontent.com/platform-engineering-peru/.github/codex/profile-editorial/profile/assets/memories.svg" width="400" alt="03 — Memories. More than a meetup. Explore our shared moments." /></a>
-  <a href="https://platformengineering.pe/en/community/"><img src="https://raw.githubusercontent.com/platform-engineering-peru/.github/codex/profile-editorial/profile/assets/community.svg" width="400" alt="04 — Community. Your people. Your place. Meet the organizers and take part." /></a>
+  <a href="https://platformengineering.pe/en/events/"><img src="https://raw.githubusercontent.com/platform-engineering-peru/.github/main/profile/assets/gatherings.svg" width="400" alt="01 — Gatherings. Good conversations. Better connections. Find a gathering." /></a>
+  <a href="https://platformengineering.pe/en/resources/"><img src="https://raw.githubusercontent.com/platform-engineering-peru/.github/main/profile/assets/resources.svg" width="400" alt="02 — Resources. Ideas worth building on. Open the knowledge archive." /></a>
+  <a href="https://platformengineering.pe/en/memories/"><img src="https://raw.githubusercontent.com/platform-engineering-peru/.github/main/profile/assets/memories.svg" width="400" alt="03 — Memories. More than a meetup. Explore our shared moments." /></a>
+  <a href="https://platformengineering.pe/en/community/"><img src="https://raw.githubusercontent.com/platform-engineering-peru/.github/main/profile/assets/community.svg" width="400" alt="04 — Community. Your people. Your place. Meet the organizers and take part." /></a>
 </p>
 
 <br />
@@ -53,8 +53,8 @@
 <p align="center">
   <a href="https://platformengineering.pe/en/community/">
     <picture>
-      <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/platform-engineering-peru/.github/codex/profile-editorial/profile/assets/welcome-mobile.svg" />
-      <img src="https://raw.githubusercontent.com/platform-engineering-peru/.github/codex/profile-editorial/profile/assets/welcome.svg" width="1200" alt="Ukuku welcomes you: Make room for others. Bring a question, a first talk, or a helping hand. You belong here." />
+      <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/platform-engineering-peru/.github/main/profile/assets/welcome-mobile.svg" />
+      <img src="https://raw.githubusercontent.com/platform-engineering-peru/.github/main/profile/assets/welcome.svg" width="1200" alt="Ukuku welcomes you: Make room for others. Bring a question, a first talk, or a helping hand. You belong here." />
     </picture>
   </a>
 </p>
@@ -75,4 +75,4 @@
   <a href="https://platformengineering.pe/en/branding/">Our brand</a>
 </p>
 <p align="center"><sub>PERÚ · COMMUNITY BUILT · OPEN TO EVERYONE</sub></p>
-<p><img src="https://raw.githubusercontent.com/platform-engineering-peru/.github/codex/profile-editorial/profile/assets/spectrum.svg" width="1200" alt="" /></p>
+<p><img src="https://raw.githubusercontent.com/platform-engineering-peru/.github/main/profile/assets/spectrum.svg" width="1200" alt="" /></p>

@@ -3,7 +3,6 @@ from pathlib import Path
 from html.parser import HTMLParser
 from urllib.parse import urlparse
 from base64 import b64decode
-import hashlib
 import xml.etree.ElementTree as ET
 
 ROOT = Path(__file__).resolve().parents[1]
